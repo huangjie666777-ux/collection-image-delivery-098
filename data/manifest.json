@@ -1,0 +1,12 @@
+{
+  "images": [
+    {
+      "id": "photo",
+      "path": "photo.jpg"
+    },
+    {
+      "id": "overlay",
+      "path": "overlay.png"
+    }
+  ]
+}

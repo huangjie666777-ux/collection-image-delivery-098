@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 .cache/
 cache/
+tests/.test-cache/
 .coverage
 htmlcov/
 build/
